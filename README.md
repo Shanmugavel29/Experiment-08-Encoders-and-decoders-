@@ -65,7 +65,7 @@ D7 = X Y Z
 
 ## Figure -04 8 to 3 Decoder implementation
 
-# Procedure:
+### Procedure:
 
 Step1:
 
@@ -87,7 +87,7 @@ Step-5:
 
 End the module.
 
-# PROGRAM:
+### PROGRAM:
 
 Program for Endocers and Decoders and verify its truth table in quartus using Verilog programming.
 
